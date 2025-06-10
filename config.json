@@ -1,0 +1,11 @@
+{
+  "google_sheets_id": "19FPt6700PClNnvcrniMXGQ2b64Cqo25FzOr0-A9vkyQ",
+  "gmail_api_credentials": "D:\\gitprojects\\ugc-management\\credentials/credentials.json",
+  "smtp_server": "smtp.gmail.com",
+  "smtp_port": 587,
+  "smtp_user": "mosalah36000@gmail.com",
+  "smtp_password": "lgvk nhpr wyku yquo",
+  "insense_api_key": "INSENSE_API_KEY_HERE",
+  "tiktok_marketplace_api_key": "TIKTOK_API_KEY_HERE",
+  "instagram_api_key": "INSTAGRAM_API_KEY_HERE"
+}
