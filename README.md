@@ -1,37 +1,67 @@
-# UGC Sourcing & Outreach Automation
+# 🚀 UGC Sourcing & Outreach Automation
 
-![Project Demo]((https://github.com/MohamedEssamML/ugc-sourcing-outreach-automation/blob/main/screenshots/image.jpg))  
-**Streamline UGC creator sourcing and outreach with this intuitive web tool!**
+![UGC Automation Demo](https://github.com/MohamedEssamML/ugc-sourcing-outreach-automation/raw/main/screenshots/image.jpg)
 
-## Overview
-This web application simplifies the process of sourcing and managing UGC creators. Search by niche, location, age, and accent, add creators to a database, and automate outreach via emails or DMs. Built for efficiency and ease of use.
+🎯 **Streamline UGC creator sourcing and outreach** with this intuitive, lightweight, and automated web application — ideal for brands, agencies, and marketers.
 
-## Features
-- **Creator Search**: Filter creators with customizable criteria.
-- **Add Creators**: Input and save creator details manually.
-- **Creator Database**: Track and update a detailed creator list.
-- **Outreach Automation**: Simulate email and DM campaigns.
-- **Local Persistence**: Store data locally in your browser.
+---
 
-## Screenshots
-![Search Creators]((https://github.com/MohamedEssamML/ugc-sourcing-outreach-automation/blob/main/screenshots/Screenshot%202025-06-10%20122814.png))  
-*Search interface with filters for niche, location, age, and accent.*
+## 🔍 Overview
 
-![Add Creator]((https://github.com/MohamedEssamML/ugc-sourcing-outreach-automation/blob/main/screenshots/Screenshot%202025-06-10%20124920.png))  
-*Form to add new creators with essential fields.*
+This tool simplifies the full UGC creator management workflow — from sourcing to outreach — in **one place**:
 
-![Creator Database](https://github.com/MohamedEssamML/ugc-sourcing-outreach-automation/blob/main/screenshots/Screenshot%202025-06-10%20125002.png))  
-*Database table displaying creator details and actions.*
+✅ Search creators by niche, location, age, or accent  
+✅ Add and manage detailed creator profiles  
+✅ Automate personalized outreach via email and DM  
+✅ Run everything locally in your browser (no backend setup needed!)
 
-![Outreach Automation]((https://github.com/MohamedEssamML/ugc-sourcing-outreach-automation/blob/main/screenshots/Screenshot%202025-06-10%20125002.png))  
-*Outreach section for sending emails and DMs.*
+---
 
-## Getting Started
-### Prerequisites
-- A modern browser (e.g., Chrome, Firefox)
+## ✨ Features
+
+| Feature                | Description                                                                 |
+|------------------------|-----------------------------------------------------------------------------|
+| 🔎 **Creator Search**  | Find creators using filters (niche, age, location, accent)                  |
+| ➕ **Add Creators**     | Manually input creator details with validations                            |
+| 📋 **Database View**   | See all creators in a sortable table with edit/delete/follow-up options     |
+| 📧 **Email Automation**| Simulate outreach via Gmail (SMTP or OAuth2)                                |
+| 📲 **DM Integration**  | Send Instagram DMs with proper API credentials                              |
+| 💾 **Local Storage**   | Store data locally in your browser (no database required)                   |
+
+---
+
+## 🖼️ Screenshots
+
+### 🔍 Search Creators  
+![Search Creators](https://github.com/MohamedEssamML/ugc-sourcing-outreach-automation/raw/main/screenshots/Screenshot%202025-06-10%20122814.png)
+
+---
+
+### ➕ Add Creator  
+![Add Creator](https://github.com/MohamedEssamML/ugc-sourcing-outreach-automation/raw/main/screenshots/Screenshot%202025-06-10%20124920.png)
+
+---
+
+### 📋 Creator Database  
+![Creator Database](https://github.com/MohamedEssamML/ugc-sourcing-outreach-automation/raw/main/screenshots/Screenshot%202025-06-10%20125002.png)
+
+---
+
+### 📧 Outreach Automation  
+![Outreach Automation](https://github.com/MohamedEssamML/ugc-sourcing-outreach-automation/raw/main/screenshots/Screenshot%202025-06-10%20125002.png)
+
+---
+
+## 🚀 Getting Started
+
+### ✅ Prerequisites
+- Modern browser (Chrome, Firefox, etc.)
 - Internet connection (for Pyodide)
+- Optional: Google API credentials for email and Sheets
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/MohamedEssamML/ugc-sourcing-outreach-automation.git
+### 📦 Installation
+
+```bash
+git clone https://github.com/MohamedEssamML/ugc-sourcing-outreach-automation.git
+cd ugc-sourcing-outreach-automation
+open index.html
