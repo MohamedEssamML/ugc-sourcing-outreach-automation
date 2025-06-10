@@ -1,6 +1,6 @@
 # UGC Sourcing & Outreach Automation
 
-![Project Demo](https://github.com/yourusername/ugc-sourcing-outreach-automation/images/demo-banner.jpg)  
+![Project Demo]([https://github.com/yourusername/ugc-sourcing-outreach-automation/images/demo-banner.jpg](https://github.com/MohamedEssamML/ugc-sourcing-outreach-automation/blob/main/screenshots/image.jpg))  
 **Streamline UGC creator sourcing and outreach with this intuitive web tool!**
 
 ## Overview
@@ -14,16 +14,16 @@ This web application simplifies the process of sourcing and managing UGC creator
 - **Local Persistence**: Store data locally in your browser.
 
 ## Screenshots
-![Search Creators](https://github.com/yourusername/ugc-sourcing-outreach-automation/images/search-creators.jpg)  
+![Search Creators]([https://github.com/yourusername/ugc-sourcing-outreach-automation/images/search-creators.jpg](https://github.com/MohamedEssamML/ugc-sourcing-outreach-automation/blob/main/screenshots/Screenshot%202025-06-10%20122814.png))  
 *Search interface with filters for niche, location, age, and accent.*
 
-![Add Creator](https://github.com/yourusername/ugc-sourcing-outreach-automation/images/add-creator.jpg)  
+![Add Creator]([https://github.com/yourusername/ugc-sourcing-outreach-automation/images/add-creator.jpg](https://github.com/MohamedEssamML/ugc-sourcing-outreach-automation/blob/main/screenshots/Screenshot%202025-06-10%20124920.png))  
 *Form to add new creators with essential fields.*
 
-![Creator Database](https://github.com/yourusername/ugc-sourcing-outreach-automation/images/creator-database.jpg)  
+![Creator Database]([https://github.com/yourusername/ugc-sourcing-outreach-automation/images/creator-database.jpg](https://github.com/MohamedEssamML/ugc-sourcing-outreach-automation/blob/main/screenshots/Screenshot%202025-06-10%20125002.png))  
 *Database table displaying creator details and actions.*
 
-![Outreach Automation](https://github.com/yourusername/ugc-sourcing-outreach-automation/images/outreach-automation.jpg)  
+![Outreach Automation]([https://github.com/yourusername/ugc-sourcing-outreach-automation/images/outreach-automation.jpg](https://github.com/MohamedEssamML/ugc-sourcing-outreach-automation/blob/main/screenshots/Screenshot%202025-06-10%20125002.png))  
 *Outreach section for sending emails and DMs.*
 
 ## Getting Started
@@ -34,4 +34,4 @@ This web application simplifies the process of sourcing and managing UGC creator
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ugc-sourcing-outreach-automation.git
+   git clone https://github.com/MohamedEssamML/ugc-sourcing-outreach-automation.git
